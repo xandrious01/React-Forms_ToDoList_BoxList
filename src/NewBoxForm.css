@@ -1,0 +1,21 @@
+.box-form-input-div {
+    padding: 5px;
+    margin: 10px;
+    display: block;
+}
+
+.box-form-btn{
+    padding: 5px;
+    margin-left: 20px;
+    display: block;
+}
+
+.box-form-input {
+    padding: 5px;
+    margin: 10px;
+    display: block;
+}
+
+.new-box-form{
+    background-color: darkgray;
+}

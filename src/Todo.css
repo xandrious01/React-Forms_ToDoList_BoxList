@@ -1,0 +1,27 @@
+.todo-btn {
+    height: 1rem;
+    width: 3rem;
+    font-size: .5rem;
+    padding: 1px;
+    margin: 2px;
+    border: 2px solid #555555;
+    background-color: #777777;
+    
+}
+
+.todo-edit {
+    color: #333333;
+    width: 2rem;
+}
+
+.todo-remove {
+    color: #ff0000;
+}
+
+.todo-edit:hover {
+    background-color: #999999;  
+}
+
+.todo-remove:hover {
+    background-color: #999999;
+}
